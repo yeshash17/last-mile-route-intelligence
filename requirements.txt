@@ -1,4 +1,5 @@
 pyvrp
+plotly
 lightgbm
 xgboost
 scikit-learn
